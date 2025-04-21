@@ -3,3 +3,4 @@ finance
 requests
 pandas
 vaderSentiment
+yfinance
